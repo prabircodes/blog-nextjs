@@ -61,7 +61,7 @@ function Slide() {
         </div>
         <div className="title">
           <Link href={"/"}>
-            <a className="text-3xl font-bold text-gray-800 md:text-6xl hover:text-gray-600">
+            <a className="text-2xl font-bold text-gray-800 md:text-4xl lg:text-6xl hover:text-gray-600">
               Your most unhappy customers are your greatest source of learning
             </a>
           </Link>
